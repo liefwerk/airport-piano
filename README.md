@@ -3,7 +3,7 @@ Airport piano is a website that helps you find free playable instruments around 
 
 ## :bulb: What is the idea behind this project?
 
-Making access to intruments easier for players around the world. This idea came to me when I was traveling in South America and especially when I really wanted to play/practice the piano. Long story short, it took me several weeks aksing around several cities to finally find a tuned piano, hidden inside a shopping hall in the city center.
+The main idea is to give easier access to intruments for players around the world. This idea came to me when I was traveling in South America and especially when I really wanted to play/practice the piano. Long story short, it took me several weeks aksing around several cities to finally find a tuned piano, hidden inside a shopping hall in the city center.
 
 ## :open_book: How can I contribute ?
 
